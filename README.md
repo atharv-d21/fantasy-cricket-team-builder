@@ -16,7 +16,7 @@
 <br>**pitch:** 0 -> Spin || 1 -> Pace
 <br>**toss_win:** 0 -> Loss || 1 -> Win
 <br>**home_crowd:** -1 -> Opp Home || 0 -> Neutral || 1 -> Home
-<br>**standium_id:** [Here](link)
+<br>**standium_id:** [Here](DATABASE/Stadiums.xlsx)
 <br>**super_overs:** 0 -> None || Numeric
 <br>**less_overs:** 0 -> Normal Match || 1 -> Short Match
 <br>
